@@ -20,4 +20,5 @@ notifications:
   email:
     on_success: change
     on_failure: change
+  slack: fluffy-memory:IhXKLwbxMnqgai34ZDYsT1Yp
   
